@@ -1,1 +1,2 @@
-"# student-school" 
+# studentschool
+Student School web app
